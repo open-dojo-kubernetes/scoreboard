@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/lPegz/kubernetes-ping-pong/scoreboard/service"
-	"github.com/lPegz/kubernetes-ping-pong/scoreboard/dbclient"
+	"github.com/open-dojo-kubernetes/scoreboard/service"
+	"github.com/open-dojo-kubernetes/scoreboard/dbclient"
 )
 
 var appName = "scoreboard"

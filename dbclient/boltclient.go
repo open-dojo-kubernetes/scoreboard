@@ -1,7 +1,7 @@
 package dbclient
 
 import (
-	model "github.com/lPegz/kubernetes-ping-pong/scoreboard/model"
+	"github.com/open-dojo-kubernetes/scoreboard/model"
 	"github.com/boltdb/bolt"
 	"log"
 	"fmt"
@@ -48,7 +48,6 @@ func (bc BoltClient) ListAllGames(gameChannel chan model.Game) {
 		})
 		return nil
 	})
-
 }
 
 func (bc *BoltClient) startAGame() {

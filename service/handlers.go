@@ -1,6 +1,6 @@
 package service
 
-import "github.com/lPegz/kubernetes-ping-pong/scoreboard/dbclient"
+import "github.com/open-dojo-kubernetes/scoreboard/dbclient"
 
 var DBClient dbclient.IBoltClient
 
