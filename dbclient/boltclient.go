@@ -11,7 +11,7 @@ import (
 
 type IBoltClient interface {
 	OpenBoltDb()
-	ListAllGames() ([]model.Game, error)
+	ListAllGames() (chan model.Game)
 	StartAGame()
 }
 
@@ -37,7 +37,7 @@ func (bc *BoltClient) initializeBucket() {
 	})
 }
 
-func (bc BoltClient) ListAllGames(gameChannel chan model.Game) {
+func (bc *BoltClient) ListAllGames(gameChannel chan model.Game) {
 	game := model.Game{}
 	bc.boltDB.View(func(tx *bolt.Tx) error {
 		tx.Bucket([]byte("GameBucket")).ForEach(func(k, gameBytes []byte) error {
