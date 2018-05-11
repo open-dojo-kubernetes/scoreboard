@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1528d921-ce0e-4553-b1ab-9bcfb8919e7f" name="Default" comment="" />
+    <list default="true" id="f1507662-7c30-4aae-9c51-466b47c4b4d6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,54 +14,137 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="scoreboard.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scoreboard.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="e#14#152#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="boltclient.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dbclient/boltclient.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+              <folding>
+                <element signature="e#18#160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="game.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/game.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="handlers.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/handlers.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="50" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/router.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="e#17#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/routes.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="service.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="e#17#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.10.1/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="urls">
       <list>
         <option value="file://$USER_HOME$/go" />
+        <option value="file://$PROJECT_DIR$" />
       </list>
     </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../../GG/aaas-access-policies-middleware" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../GG/aaas-auth-lambda-radius" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../GG/aaas-auth-management-middleware" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../GG/aaas-providers-middleware" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../GG/aaas-resources-middleware" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../RO/aaas-device-middleware" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../aaas-access-policies-middleware" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../aaas-access-policies/aaas-access-policies-middleware" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../aaas-auth-orchestrator/aaas-auth-lib-orchestrator-model" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../aaas-auth-orchestrator/aaas-auth-orchestrator-middleware" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../aaas-auth-saml-state-management/aaas-auth-saml-state-management-middleware" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../aaas-general-settings/aaas-general-settings-middleware" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../aaas-mfa-middleware/aaas-mfa-middleware" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../aaas-premises-agent/aaas-premises-agent-ldap-sync" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../aaas-resources/aaas-resources-middleware" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/demo2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../GG/aaas-access-policies-middleware" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../GG/aaas-auth-lambda-radius" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../GG/aaas-auth-management-middleware" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../GG/aaas-providers-middleware" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../GG/aaas-resources-middleware" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../RO/aaas-device-middleware" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../aaas-access-policies-middleware" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../aaas-access-policies/aaas-access-policies-middleware" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../aaas-auth-orchestrator/aaas-auth-lib-orchestrator-model" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../aaas-auth-orchestrator/aaas-auth-orchestrator-middleware" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../aaas-auth-saml-state-management/aaas-auth-saml-state-management-middleware" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../aaas-general-settings/aaas-general-settings-middleware" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../aaas-mfa-middleware/aaas-mfa-middleware" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../aaas-premises-agent/aaas-premises-agent-ldap-sync" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../aaas-resources/aaas-resources-middleware" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kubernetes-ping-pong/right-court" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lib/aaas-auth-lib-messaging-model" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lib/aaas-auth-lib-mfa-model" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../poc-microservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../poc-microservice/book-reader" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../potato-project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../prototype-schedule" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../right-court" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../lib/aaas-auth-lib-messaging-model" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../lib/aaas-auth-lib-mfa-model" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../poc-microservice" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../poc-microservice/book-reader" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../potato-project" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../prototype-schedule" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../sqs-tutorial" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../timetracking" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../wg-java-utils" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../wg-jwt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sqs-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../timetracking" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../wg-java-utils" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../wg-jwt" value="PREVIEW" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/scoreboard.go" />
-        <option value="$PROJECT_DIR$/model/game.go" />
+        <option value="$PROJECT_DIR$/service/handlers.go" />
         <option value="$PROJECT_DIR$/dbclient/boltclient.go" />
+        <option value="$PROJECT_DIR$/scoreboard.go" />
       </list>
     </option>
   </component>
@@ -109,6 +195,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
@@ -134,12 +221,46 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build scoreboard.go">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="GoAppEngineRunConfiguration" factoryName="Go App Engine">
+      <working_directory value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="go build scoreboard/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="scoreboard" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="go build scoreboard.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="scoreboard" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/scoreboard.go" />
+      <directory value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -192,37 +313,56 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list>
+      <item itemvalue="Go Build.go build scoreboard/" />
+      <item itemvalue="Go Build.go build scoreboard.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build scoreboard.go" />
+        <item itemvalue="Go Build.go build scoreboard/" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1528d921-ce0e-4553-b1ab-9bcfb8919e7f" name="Default" comment="" />
-      <created>1524570635643</created>
+      <changelist id="f1507662-7c30-4aae-9c51-466b47c4b4d6" name="Default" comment="" />
+      <created>1526047119556</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1524570635643</updated>
-      <workItem from="1524570637180" duration="3841000" />
+      <updated>1526047119556</updated>
+      <workItem from="1526047121312" duration="1949000" />
     </task>
+    <task id="LOCAL-00001" summary="Fixed repo naming">
+      <created>1526049300869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526049300869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3841000" />
+    <option name="totallyTimeSpent" value="1949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32935324" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32935324" />
       <window_info anchor="right" id="Mongo Explorer" />
       <window_info anchor="bottom" id="Terminal" weight="0.32935324" />
       <window_info id="Designer" />
       <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -232,9 +372,9 @@
       <window_info anchor="bottom" id="Debug with VisualVM" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
@@ -245,44 +385,77 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed repo naming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed repo naming" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/service/service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#17#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/lPegz/kubernetes-ping-pong/scoreboard/dbclient/boltclient.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="47" column="16" lean-forward="true" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/game.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/handlers.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/service/router.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#17#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/routes.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbclient/boltclient.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <element signature="e#18#160#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scoreboard.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <element signature="e#14#152#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/go/src/github.com/lPegz/kubernetes-ping-pong/scoreboard/model/game.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbclient/boltclient.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="46" column="39" lean-forward="true" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/game.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
