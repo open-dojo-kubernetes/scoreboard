@@ -37,7 +37,7 @@ func (bc *BoltClient) initializeBucket() {
 	})
 }
 
-func (bc *BoltClient) ListAllGames(gameChannel chan model.Game) {
+func (bc *BoltClient) ListAllGames() (gameChannel chan model.Game) {
 	game := model.Game{}
 	bc.boltDB.View(func(tx *bolt.Tx) error {
 		tx.Bucket([]byte("GameBucket")).ForEach(func(k, gameBytes []byte) error {
@@ -48,6 +48,7 @@ func (bc *BoltClient) ListAllGames(gameChannel chan model.Game) {
 		})
 		return nil
 	})
+	return nil
 }
 
 func (bc *BoltClient) startAGame() {
